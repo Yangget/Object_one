@@ -25,3 +25,16 @@ https://paperswithcode.com/paper/object-centric-auto-encoders-and-dummy
 
 * 使用生成对抗网络的视频异常事件检测  
 论文：https://arxiv.org/pdf/1708.09644v1.pdf  
+
+* 第一人称视频中的无监督交通事故检测  
+论文：https://arxiv.org/pdf/1903.00618v4.pdf  
+代码：https://github.com/MoonBlvd/tad-IROS2019  
+
+* 使用深度神经网络从步态视频自动检测健康问题  
+论文：https://arxiv.org/pdf/1906.01480v1.pdf  
+代码：https://github.com/rmehrizi/multi-view-pose-estimation  
+
+* openpose  
+代码：https://github.com/CMU-Perceptual-Computing-Lab/openpose  
+
+* 
