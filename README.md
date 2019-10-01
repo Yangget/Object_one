@@ -20,7 +20,7 @@ https://paperswithcode.com/paper/object-centric-auto-encoders-and-dummy
 代码：https://github.com/MYusha/Video-Anomaly-Detection
 
 * 组异常检测  
-论文：https://arxiv.org/pdf/1804.04876v1.pdf  
+论文：https : //arxiv.org/pdf/1804.04876v1.pdf   
 代码：https://github.com/raghavchalapathy/gad
 
 * 使用生成对抗网络的视频异常事件检测  
